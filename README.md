@@ -9,7 +9,6 @@
         <li>Gerenciamento de livros</li>
         <li>Gerenciamento de autores</li>
         <li>Gerenciamento de usuários</li>
-        <li>Autenticação de usuários</li>
     </ul>
     
 <h2>Tecnologias Utilizadas</h2>
